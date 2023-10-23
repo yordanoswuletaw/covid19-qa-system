@@ -1,0 +1,2 @@
+farm-haystack==0.9.0
+farm==0.8.0
